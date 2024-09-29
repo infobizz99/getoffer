@@ -10543,7 +10543,7 @@
                                 }), (0,
                                 We.jsx)("div", {
                                     className: "text-slate-800 text-[13px] font-bold",
-                                    children: "1.0 GB/day"
+                                    children: "1.5 GB/day"
                                 })]
                             }), (0,
                             We.jsxs)("div", {
