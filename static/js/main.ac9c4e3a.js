@@ -10623,7 +10623,7 @@
                                 }), (0,
                                 We.jsx)("div", {
                                     className: "text-slate-800 text-[13px] font-bold",
-                                    children: "84 days"
+                                    children: "12 month"
                                 })]
                             }), (0,
                             We.jsxs)("div", {
